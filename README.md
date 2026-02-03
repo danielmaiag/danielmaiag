@@ -68,20 +68,17 @@ Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheir
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=danielmaiag&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmaiag&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=danielmaiag&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
-</p>
+<img
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmaiag&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
+</div>
+>
