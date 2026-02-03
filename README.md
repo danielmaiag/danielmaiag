@@ -20,29 +20,32 @@ Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheir
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 " 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Latex" 
-    title="Latex"
+    alt="Numpy" 
+    title="Numpy"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Matplotlib"
+    title="Matplotlib" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
 <img 
     align="left" 
@@ -116,13 +119,15 @@ Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheir
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Latex" 
+    title="Latex"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" 
 />
 
 <br/>
