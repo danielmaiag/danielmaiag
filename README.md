@@ -60,7 +60,7 @@ Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheir
     title="Latex"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://images.seeklogo.com/logo-png/8/1/latex-logo-png_seeklogo-82426.png" 
+    src="https://images.seeklogo.com/logo-png/8/1/latex-logo-png_seeklogo-82426.png" 
 />
 
 <br/>
