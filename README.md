@@ -66,4 +66,3 @@ Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheir
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
