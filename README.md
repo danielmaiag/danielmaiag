@@ -52,7 +52,7 @@ Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheir
     title="OpenDSS"
     width="30px"
     style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/opendss-logo.svg" />
+    src="https://opendss.epri.com/lib/NewItem26.png" />
 
 <img 
     align="left" 
