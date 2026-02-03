@@ -18,8 +18,6 @@ Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheir
     style="padding-right: 10px;"
     class="devicon-latex-original"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-" 
-/>
 
 <img 
     align="left" 
