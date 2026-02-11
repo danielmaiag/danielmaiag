@@ -2,7 +2,7 @@
 
 **`Engenheiro Eletricista`**
 
-Me chamo Daniel Maia, tenho 25 anos e sou natural de Minas Gerais. Sou engenheiro eletricista em formação com experiência em análise de sistemas elétricos de potência, automação de estudos elétricos em Python e OpenDSS, e aplicação de técnicas de otimização e aprendizado por reforço à problemas de operação de sistemas elétricos de potência.
+Me chamo Daniel Maia, tenho 25 anos e sou de Minas Gerais. Sou engenheiro eletricista em formação com experiência em análise de sistemas elétricos de potência, automação de estudos elétricos em Python e OpenDSS, e aplicação de técnicas de otimização e aprendizado por reforço à problemas de operação de sistemas elétricos de potência.
 
 </p>
 
